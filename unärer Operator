@@ -1,0 +1,20 @@
+main(){
+  
+  int zahl = 6;
+  print(zahl);
+  
+  zahl++;
+  zahl*=2;
+  print(zahl);
+  
+  int zahl2 = 6;
+  print(zahl2);
+  
+  zahl2--;
+  print(zahl2);
+  
+  int zahl3 = 6;
+  zahl3*=6;
+  print(zahl3);
+  
+}
